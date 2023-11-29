@@ -9,7 +9,7 @@ import {
   create,
   updateById,
   deleteById,
-} from "./controllers/planets";
+} from "./controllers/planets.js";
 
 dotenv.config();
 
